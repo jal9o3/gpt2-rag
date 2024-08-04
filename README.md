@@ -1,5 +1,5 @@
 # gpt2-rag
-This repository contains an experimental Colab notebook, which details an attempt to enhance GPT2 with Retrieval Augmented Generation.
+This repository contains an experimental Colab notebook, which details an attempt to enhance GPT-2 with Retrieval Augmented Generation.
 Kept for future reference.
 ## Technologies used:
 * requests
